@@ -1,0 +1,10 @@
+{
+  "simulation": "simulation.CreatePostGuestSimulation",
+  "simulationId": "createpostguestsimulation",
+  "start": 1620137189517,
+  "description": "",
+  "scenarios": ["Create post guest Scenario"],
+  "assertions": [
+
+  ]
+}
